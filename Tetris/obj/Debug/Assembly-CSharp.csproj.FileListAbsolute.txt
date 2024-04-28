@@ -1,0 +1,2 @@
+/Users/lizazelenkina/RiderProjects/Tetris/Tetris/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/lizazelenkina/RiderProjects/Tetris/Tetris/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
